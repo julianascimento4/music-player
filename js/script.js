@@ -12,7 +12,7 @@ const minutesDisplay = document.querySelector('#currentTime .minutes');
 const secondsDisplay = document.querySelector('#currentTime .seconds');
 const input = document.querySelector('input');
 
-const music = new Audio('./assets/me-atraiu.mp4');
+const music = new Audio('assets/me-atraiu.mp4');
 let totalMinutes;
 let totalSeconds;
 
