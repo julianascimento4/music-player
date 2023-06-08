@@ -32,13 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Habits é um app para ajudar a ratrear os hábitos.
 
-- [Acesse o projeto finalizado, online](https://julianascimento4.github.io/nlw_setup/)
+
+- [Acesse o projeto finalizado, online](https://julianascimento4.github.io/music-player/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
